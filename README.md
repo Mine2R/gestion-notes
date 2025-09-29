@@ -42,6 +42,9 @@ Chaque note contient :
 └── app-home.png ← capture d’écran de l’app```
 
 
+## 📸 Capture d’écran
+![Aperçu de l’application](screenshots/app-home.png)
+
 ## 🛠️ Prérequis
 - PHP 8+
 - SQLite3 (installé par défaut sur macOS/Linux)
@@ -50,9 +53,6 @@ Chaque note contient :
 1. Créer la base (si besoin) :
    ```bash
    sqlite3 database.sqlite < database.sql```
-
-## 📸 Capture d’écran
-![Aperçu de l’application](screenshots/app-home.png)
 
 
 ##🧱 Notes techniques (très basiques)
