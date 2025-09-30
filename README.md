@@ -36,10 +36,10 @@ Chaque note contient :
 │ └── form.php
 │
 ├── notes-app/
-│ └── index.php ← page principale (inclut controller + vues)
+│ └── index.php 
 │
 └── screenshots/
-└── app-home.png ← capture d’écran de l’app
+└── app-home.png 
 ```
 
 ## 📸 Capture d’écran
@@ -49,13 +49,14 @@ Chaque note contient :
 - PHP 8+
 - SQLite3 (installé par défaut sur macOS/Linux)
 
-## 🚀 Installation & Lancement (consigne prof)
+## 🚀 Installation & Lancement 
 1. Créer la base (si besoin) :
    ```bash
-   sqlite3 database.sqlite < database.sql```
+   sqlite3 database.sqlite < database.sql
+   ```
 
 
-##🧱 Notes techniques (très basiques)
+##🧱 Notes techniques 
 
 Connexion SQLite : models/db.php
 
