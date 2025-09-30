@@ -39,8 +39,8 @@ Chaque note contient :
 │ └── index.php ← page principale (inclut controller + vues)
 │
 └── screenshots/
-└── app-home.png ← capture d’écran de l’app```
-
+└── app-home.png ← capture d’écran de l’app
+```
 
 ## 📸 Capture d’écran
 ![Aperçu de l’application](screenshots/app-home.png)
